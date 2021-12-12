@@ -1,24 +1,4 @@
 [
-  {
-    "document_key": "Wonderful_Life_AWS",
-    "arreglo": "Lorem",
-    "artist": "Black",
-    "categories": "Arreglos",
-    "collection": "n/a",
-    "date": 1639127185000,
-    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/arreglos/Wonderful_Life_Black.png",
-    "info": "n/a",
-    "level": "Fácil",
-    "musicStyle": "Pop/Rock",
-    "name": "AWS",
-    "practice": "n/a",
-    "preloadID": "Wonderful_Life_AWS",
-    "preloadLink": "./follow/follow.html?d:y2nljnyj4mc0zpk/Wonderful_Life_Facil.js",
-    "sheetMusic": "https://drive.google.com/file/d/1pVe9QNKCFLP7MVzP9Zxc-4Su2uCaYE7F/view",
-    "sublevel": "n/a",
-    "subtitle": "Fácil",
-    "tonality": "n/a"
-  },
 {
   "document_key": "AMillionDreams_Facil",
     "arreglo": "Arreglo con acomp.",
