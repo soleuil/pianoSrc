@@ -1,6 +1,5 @@
 [
-{
-  "MetodoEuropeo1_63_Changing_time_pag61": {
+  {"document_key": "MetodoEuropeo1_63_Changing_time_pag61",
     "arreglo": "Piano solo",
     "artist": "Método europeo",
     "categories": "",
@@ -19,7 +18,7 @@
     "subtitle": "Vol I (pág. 63)",
     "tonality": ""
   },
-  "MetodoEuropeo1_65_Walking_and_running_pag63": {
+  {"document_key": "MetodoEuropeo1_65_Walking_and_running_pag63",
     "arreglo": "Piano solo",
     "artist": "Método europeo",
     "categories": "",
@@ -38,7 +37,7 @@
     "subtitle": "Vol. I (pág. 63)",
     "tonality": ""
   },
-  "MetodoEuropeo1_66_Shepherds_song_pag64": {
+  {"document_key": "MetodoEuropeo1_66_Shepherds_song_pag64",
     "arreglo": "Piano solo",
     "artist": "Método europeo",
     "categories": "",
@@ -57,7 +56,7 @@
     "subtitle": "Vol. I (pág. 64)",
     "tonality": ""
   },
-  "Wonderful_Life_Facil": {
+  {"document_key": "Wonderful_Life_Facil",
     "arreglo": "Arreglo con acomp.",
     "artist": "Black",
     "categories": "Arreglos",
@@ -76,7 +75,7 @@
     "subtitle": "Fácil",
     "tonality": "n/a"
   },
-  "Wonderful_Life_Facil_Intermedio": {
+  {"document_key": "Wonderful_Life_Facil_Intermedio",
     "arreglo": "Arreglo con acomp.",
     "artist": "Black",
     "categories": "Arreglos",
@@ -95,7 +94,7 @@
     "subtitle": "Fácil/Intermedio",
     "tonality": "n/a"
   },
-  "Wonderful_Life_Intermedio": {
+  {"document_key": "Wonderful_Life_Intermedio",
     "arreglo": "Arreglo con acomp.",
     "artist": "Black",
     "categories": "Arreglos",
