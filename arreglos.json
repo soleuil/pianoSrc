@@ -7,12 +7,12 @@
       "image": "./images/arreglos/city_of_stars.jpg",
       "level": "Muy fácil",
       "musicStyle": "Film/TV",
-      "name": "3. City of Stars",
+      "name": "City of Stars",
       "preloadID": "CityOfStars_MuyFacil",
       "preloadLink": "./follow/follow.html?d:n4xkyvn2wokc2z7/City_of_stars_Muy_facil.js",
       "sheetMusic": "https://drive.google.com/file/d/1-eaEEyaek8GK4z3fB9k3FUmnbEbZNwiS/view",
       "sublevel": "2a",
-      "subtitle": "Nivel 45"
+      "subtitle": "Muy fácil"
     },
     {"document_key": "CityOfStars_Facil",
       "arreglo": "Arreglo con acomp.",
