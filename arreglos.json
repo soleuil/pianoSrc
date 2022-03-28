@@ -1,5 +1,6 @@
 [
   {"document_key": "CityOfStars_MuyFacil",
+      "arreglo": "Arreglo con acomp.",
       "artist": "",
       "categories": "Arreglos",
       "date": 1648415043000,
@@ -14,6 +15,7 @@
       "subtitle": "Nivel 45"
     },
     {"document_key": "CityOfStars_Facil",
+      "arreglo": "Arreglo con acomp.",
       "artist": "",
       "categories": "Arreglos",
       "date": 1648413190000,
@@ -28,6 +30,7 @@
       "subtitle": "Fácil"
     },
     {"document_key": "CityOfStars_Facil_Intermedio",
+      "arreglo": "Arreglo con acomp.",
       "artist": "",
       "categories": "Arreglos",
       "date": 1648412899000,
@@ -39,9 +42,11 @@
       "preloadLink": "./follow/follow.html?d:4dlro9g634oenyf/City_of_stars_Facil_Intermedio.js",
       "sheetMusic": "https://drive.google.com/file/d/10wXQaGfVIjT3_bqmA6KTwknofcb8NFWv/view",
       "sublevel": "",
-      "subtitle": "Fácil/Intermedio"
+      "subtitle": "Fácil/Intermedio",
+      "tonality": "Sol m (2 b)"
     },
   {"document_key": "CityOfStars_Intermedio",
+      "arreglo": "Arreglo con acomp.",
       "artist": "",
       "categories": "Arreglos",
       "date": 1648412897000,
