@@ -15151,7 +15151,7 @@
     {
         "id": 457,
         "created_at": 1648320618911,
-        "apellidos": "García Rubio",
+        "apellidos": "García Gutiérrez",
         "nombre": "Ángela",
         "asignaturas": [
             "Instrumento",
@@ -15168,7 +15168,6 @@
         ],
         "studentID": "gUBZmCJNznuZA05TtI8r",
         "teachers": [
-            "",
             "0ZMq2Yn2OtMzx46MABgGkfRM7Co1",
             "l16vfS7eCpZavHe5DesUXar9iEj1",
             "GLYFT7M4kvgoxLB7UqT1rtCwzg83"
