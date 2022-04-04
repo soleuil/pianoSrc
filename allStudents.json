@@ -1644,6 +1644,26 @@
         "key": 45
     },
     {
+        "created_at": 1648982972820,
+        "apellidos": "Álvarez Bazán",
+        "nombre": "Luis",
+        "asignaturas": [
+            "Instrumento",
+            "Lenguaje musical"
+        ],
+        "curso": "1º EEBB",
+        "especialidad": "Trompeta",
+        "iPasenID": "",
+        "selected": [],
+        "studentID": "KlqzQOdhYi3bmAWsgJ5w",
+        "teachers": [
+            ""
+        ],
+        "tutor": "trompetaA",
+        "userEmail": "",
+        "itinerario": ""
+    },
+    {
         "id": 18,
         "created_at": 1648314591250,
         "apellidos": "Olivencia Vargas",
@@ -6066,7 +6086,7 @@
     {
         "id": 148,
         "created_at": 1648318383708,
-        "apellidos": "Gómez Lirola",
+        "apellidos": "Gómez González",
         "nombre": "Guillermo",
         "asignaturas": [
             "Instrumento",
