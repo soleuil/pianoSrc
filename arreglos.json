@@ -84,7 +84,7 @@
     "artist": "Glenn Miller",
     "categories": "Arreglos",
     "collection": "",
-    "date": 1661792541048,
+    "date": 1661789284300,
     "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/arreglos/Moonlight_Serenade.jpg",
     "info": "",
     "level": "Fácil/Intermedio",
@@ -117,7 +117,7 @@
     "artist": "Glenn Miller",
     "name": "Moonlight Serenade",
     "arreglo": "Arreglo con acomp.",
-    "date": 1661792503391
+    "date": 1661789284200
   },
   {
     "collection": "",
@@ -137,7 +137,7 @@
     "artist": "Glenn Miller",
     "name": "Moonlight Serenade",
     "arreglo": "Arreglo con acomp.",
-    "date": 1661792443058
+    "date": 1661789284100
   },
   {
     "document_key": "Great_balls_of_fire_acomp_Facil_Intermedio",
