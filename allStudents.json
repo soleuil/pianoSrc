@@ -3602,13 +3602,13 @@
         "itinerario": "A2",
         "nombre": "Virginia del Carmen",
         "pendientes": [
-            "Instrumento_4º EEPP"
+            
         ],
         "selected": [
             ""
         ],
         "selectedPendientes": [
-            "vJwWlbJxpXcoEyAgYSVv0pV721l1_Instrumento_pendiente"
+            
         ],
         "studentID": "GmQ0BNhyoixRN0MhLvch",
         "teachers": [
@@ -7059,7 +7059,7 @@
         "teachers": [
             ""
         ],
-        "tutor": "violinD",
+        "tutor": "violinA",
         "userEmail": ""
     },
     {
@@ -11138,24 +11138,11 @@
         "itinerario": "A2",
         "nombre": "Mariano",
         "selected": [
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3_Pedagogía musical",
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3_Historia del Pensamiento",
-            "VmTT8mcICSPHpwaYLbQrYJbrIhP2_Literatura y Audición musical",
-            "tXkrfCdvUFMz5UHb2eGH5EOpBpE3_Instrumento",
-            "tXkrfCdvUFMz5UHb2eGH5EOpBpE3_Música de cámara",
-            "1guRd7C2FhaXVnkqFOMBaM7UnJh2_Análisis",
-            "vCodWeklA8ZD23CpJrHkGCFSmDL2_Orquesta_Banda",
-            "wWzj9cCDSYasmwUs2jCNrQfp54H3_Instrumento",
-            "wWzj9cCDSYasmwUs2jCNrQfp54H3_Música de cámara"
+            
         ],
         "studentID": "nuHHFcAdjtEq3m5tUuM0",
         "teachers": [
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3",
-            "VmTT8mcICSPHpwaYLbQrYJbrIhP2",
-            "tXkrfCdvUFMz5UHb2eGH5EOpBpE3",
-            "1guRd7C2FhaXVnkqFOMBaM7UnJh2",
-            "vCodWeklA8ZD23CpJrHkGCFSmDL2",
-            "wWzj9cCDSYasmwUs2jCNrQfp54H3"
+            
         ],
         "tutor": "saxoB",
         "userEmail": ""
@@ -11239,7 +11226,7 @@
         "teachers": [
             ""
         ],
-        "tutor": "guitarraC",
+        "tutor": "guitarraD",
         "userEmail": ""
     },
     {
@@ -11587,24 +11574,13 @@
         "nombre": "Alba Teresa",
         "pendientes": [],
         "selected": [
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3_Historia del Pensamiento",
-            "VmTT8mcICSPHpwaYLbQrYJbrIhP2_Literatura y Audición musical",
-            "irDPcBqi4mhIrZm7GyIkTKRaSMl2_Instrumento",
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3_Pedagogía musical",
-            "wva4N7x6BOgouRPiF2ehMuJGh452_Música de cámara",
-            "1guRd7C2FhaXVnkqFOMBaM7UnJh2_Análisis",
-            "vCodWeklA8ZD23CpJrHkGCFSmDL2_Orquesta_Banda"
+            
         ],
         "studentID": "pz9rhxzu7AI6DbaAb68m",
         "teachers": [
-            "VmTT8mcICSPHpwaYLbQrYJbrIhP2",
-            "irDPcBqi4mhIrZm7GyIkTKRaSMl2",
-            "KQLnaE5AA3ZDzFmpaBncO797lZH3",
-            "wva4N7x6BOgouRPiF2ehMuJGh452",
-            "1guRd7C2FhaXVnkqFOMBaM7UnJh2",
-            "vCodWeklA8ZD23CpJrHkGCFSmDL2"
+            
         ],
-        "tutor": "cheloB",
+        "tutor": "cheloC",
         "userEmail": ""
     },
     {
