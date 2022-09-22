@@ -3769,36 +3769,6 @@
         "userEmail": ""
     },
     {
-        "__id__": "HPZykoJDiVs8OySzASRJ",
-        "apellidos": "Góngora Castillo",
-        "asignaturas": [
-            "Instrumento",
-            "Música de cámara",
-            "Orquesta_Banda",
-            "Historia del Pensamiento",
-            "Pedagogía musical",
-            "Análisis",
-            "Literatura y Audición musical"
-        ],
-        "createdAt": 1662746601459,
-        "curso": "6º EEPP",
-        "especialidad": "Violín",
-        "iPasenID": "",
-        "ipasenID": "",
-        "itinerario": "A2",
-        "nombre": "Javier",
-        "phoneNumber": "",
-        "selected": [
-            ""
-        ],
-        "studentID": "HPZykoJDiVs8OySzASRJ",
-        "teachers": [
-            ""
-        ],
-        "tutor": "violinC",
-        "userEmail": ""
-    },
-    {
         "__id__": "HSKEOBjbiz4bVxq7P9MK",
         "apellidos": "Muñoz Jiménez",
         "asignaturas": [
