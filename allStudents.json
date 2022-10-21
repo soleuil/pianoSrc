@@ -1,5 +1,29 @@
 [
     {
+        "apellidos": "Rodríguez Vorobiera",
+        "asignaturas": [
+            "Instrumento",
+            "Lenguaje musical",
+            "Coro",
+            "Agrupación"
+        ],
+        "createdAt": 1666287313623,
+        "curso": "3º EEBB",
+        "especialidad": "Trombón",
+        "iPasenID": "",
+        "itinerario": "",
+        "nombre": "Francisco",
+        "selected": [
+            ""
+        ],
+        "studentID": "GwsYUlx6rfhSHxJxM28g",
+        "teachers": [
+            ""
+        ],
+        "tutor": "trombonA",
+        "userEmail": ""
+    },
+    {
         "apellidos": "Moya Moya",
         "asignaturas": [
             "Instrumento",
@@ -25,10 +49,7 @@
             ""
         ],
         "tutor": "violaA",
-        "userEmail": "",
-        "document_key": "WUAG2IAx3yLwsRdpgVuF",
-        "document_path": "alumnado/WUAG2IAx3yLwsRdpgVuF",
-        "key": 1
+        "userEmail": ""
     },
     {
         "__id__": "01OtwwaQ9lsDJubz9Xt9",
