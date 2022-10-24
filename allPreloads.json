@@ -10278,7 +10278,7 @@
 
 
     {
-      "Bastien1_01_Marchando_p6": {
+        "document_key":"Bastien1_01_Marchando_p6",
         "artist": "Pág. 6",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10290,7 +10290,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1hv2oZQpYt7GbVix24QRpu1MTw1zT5k2M/view",
         "subtitle": "Posición de Do"
       },
-      "Bastien1_02_LosLeones_p7": {
+      {"document_key":"Bastien1_02_LosLeones_p7",
         "artist": "Pág. 7",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10302,7 +10302,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1hwZmN5XborrUt4Qs94g2elQU_pBa3fLk/view",
         "subtitle": "Posición de Do"
       },
-      "Bastien1_03_NicanorDormilon_p7": {
+      {"document_key":"Bastien1_03_NicanorDormilon_p7",
         "artist": "Pág. 7",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10314,7 +10314,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1i4i66EkQaMAbM2Mt0FBziet5_8UJb_q7/view",
         "subtitle": "Posición de Do"
       },
-      "Bastien1_04_ElGatoCallejero_p8": {
+      {"document_key":"Bastien1_04_ElGatoCallejero_p8",
         "artist": "Pág. 8",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10326,7 +10326,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1iH3Jzyo5zfHQLxTcsCqTg_QjcLDW8gbT/view",
         "subtitle": "El sostenido #"
       },
-      "Bastien1_05_ElNuevoPuenteDeLondres_p8": {
+      {"document_key":"Bastien1_05_ElNuevoPuenteDeLondres_p8",
         "artist": "Pág. 8",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10338,7 +10338,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1iL0yBoI2Z7SZEqMNPe8PxtbJxFRrlVM0/view",
         "subtitle": "El sostenido #"
       },
-      "Bastien1_06_LlegoElInvierno_p9": {
+      {"document_key":"Bastien1_06_LlegoElInvierno_p9",
         "artist": "Pág. 9",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10350,7 +10350,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1ie-EaX53ToouVquzqlN2oDxf8brW0Gap/view",
         "subtitle": "El bemol b"
       },
-      "Bastien1_07_ElTrineoDeSantaClaus_p9": {
+      {"document_key":"Bastien1_07_ElTrineoDeSantaClaus_p9",
         "artist": "Pág. 9",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10362,7 +10362,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1ixBl2DChBsYF4cCtCva81jz9-nOtMJvg/view",
         "subtitle": "El bemol b"
       },
-      "Bastien1_08_CorreRatonCorre_p11": {
+      {"document_key":"Bastien1_08_CorreRatonCorre_p11",
         "artist": "Pág. 11",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10374,7 +10374,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1j2LpoHQ-R4Ebx7imhQFtoVDuFgJ5qepY/view",
         "subtitle": "Acomp. en Do"
       },
-      "Bastien1_09_ElSapo_p12": {
+      {"document_key":"Bastien1_09_ElSapo_p12",
         "artist": "Pág. 12",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10386,7 +10386,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1dondFiON8RXNzqXkx5cHO2_iVn1dW_rv/view",
         "subtitle": "Staccato"
       },
-      "Bastien1_10_LaComadreja_p13": {
+      {"document_key":"Bastien1_10_LaComadreja_p13",
         "artist": "Pág. 13",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10398,7 +10398,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1e-D1_PnLrgwcW20IxpXMRyYAFZgSK1Wk/view",
         "subtitle": "Staccato"
       },
-      "Bastien1_11_ElMercadoPersa_p14": {
+      {"document_key":"Bastien1_11_ElMercadoPersa_p14",
         "artist": "Pág. 14",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10410,7 +10410,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1eCnYqUQyelMm_cODRc-V_APjVT7pexeV/view",
         "subtitle": "Indicac. de tiempo"
       },
-      "Bastien1_12_ElValsDeLosElefantes_p15": {
+      {"document_key":"Bastien1_12_ElValsDeLosElefantes_p15",
         "artist": "Pág. 15",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10422,7 +10422,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1APOp8lSKWk5fuYU_9lntJi3dbesf6-xk/view",
         "subtitle": "Indicac. de tiempo"
       },
-      "Bastien1_13_MiNuevaTonalidad_p16": {
+      {"document_key":"Bastien1_13_MiNuevaTonalidad_p16",
         "artist": "Pág. 16",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10434,7 +10434,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1Ah3hzfzLGmgFmN_-NGbtBCq4o3BJ4wLh/view",
         "subtitle": "Tonalidad de Fa"
       },
-      "Bastien1_14_LaFocaFeliz_p17": {
+      {"document_key":"Bastien1_14_LaFocaFeliz_p17",
         "artist": "Pág. 17",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10446,7 +10446,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1Ar0sV-nzPB0HE8oqix9_MIJmK4MbDDMP/view",
         "subtitle": "Tonalidad de Fa"
       },
-      "Bastien1_15_EjercicioPractica_p18": {
+      {"document_key":"Bastien1_15_EjercicioPractica_p18",
         "artist": "Pág. 18",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10458,7 +10458,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1BGInRHlrj2u95mlk2H3oJKMEPsWyrkB6/view",
         "subtitle": "Acomp. en Fa"
       },
-      "Bastien1_16_ValentiaEnElMar_p19": {
+      {"document_key":"Bastien1_16_ValentiaEnElMar_p19",
         "artist": "Pág. 19",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10470,7 +10470,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1Aetu0K7zjzX93tYjQ7L7KlzpLkjCZWxW/view",
         "subtitle": "Acomp. en Fa"
       },
-      "Bastien1_17_LluviaLluvia_p20": {
+      {"document_key":"Bastien1_17_LluviaLluvia_p20",
         "artist": "Pág. 20",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10482,7 +10482,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1BLRG6rsf7475TdfI6--fX3jOYr5gfTF7/view",
         "subtitle": "Nuevas dinámicas"
       },
-      "Bastien1_18_CantaPajaro_p21": {
+      {"document_key":"Bastien1_18_CantaPajaro_p21",
         "artist": "Pág. 21",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10494,7 +10494,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1BaVts3lyujlmqLkSyfNHS1NwvBbO0iMG/view",
         "subtitle": "Forma musical"
       },
-      "Bastien1_19_AyAyAy_p22": {
+      {"document_key":"Bastien1_19_AyAyAy_p22",
         "artist": "Pág. 22",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10506,7 +10506,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1BiKWorO7GkESZ6GzOmCRpIpj0V9iPWvn/view",
         "subtitle": "Posición de Sol"
       },
-      "Bastien1_20_LaTrompetaLlama_p23": {
+      {"document_key":"Bastien1_20_LaTrompetaLlama_p23",
         "artist": "Pág. 23",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10518,7 +10518,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1BqtBTNPHRz5HtBw8K1ivRkKuhWmH5ZKD/view",
         "subtitle": "Posición de Sol"
       },
-      "Bastien1_21_Fantasmas_p24": {
+      {"document_key":"Bastien1_21_Fantasmas_p24",
         "artist": "Pág. 24",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10530,7 +10530,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1eR8hE5xNbCIB16x6iYoW303z49XQUrGU/view",
         "subtitle": "El acento"
       },
-      "Bastien1_22_Escalando_p26": {
+      {"document_key":"Bastien1_22_Escalando_p26",
         "artist": "Pág. 26",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10542,7 +10542,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CCckjeERljZ2-vX5M3tjr-N6RvEEkOxt/view",
         "subtitle": "Posición de Sol"
       },
-      "Bastien1_23_DanzaHolandesa_p27": {
+      {"document_key":"Bastien1_23_DanzaHolandesa_p27",
         "artist": "Pág. 27",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10554,7 +10554,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CBUEKFTwTN2fTveGsp76rlPnoeLg7GbH/view",
         "subtitle": "Posición de Sol"
       },
-      "Bastien1_24_EjercicioAcompEnSol_p28": {
+      {"document_key":"Bastien1_24_EjercicioAcompEnSol_p28",
         "artist": "Pág. 28",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10566,7 +10566,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CNI-pMMOU2RkVj0U8od6iP9IF0ANfD6h/view",
         "subtitle": "Acomp. en Sol"
       },
-      "Bastien1_25_MeGustaElFutbol_p29": {
+      {"document_key":"Bastien1_25_MeGustaElFutbol_p29",
         "artist": "Pág. 29",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10578,7 +10578,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CPNU2VbZZt-HajstaMSsUIgSyKWapogn/view",
         "subtitle": "Tonalidad de Sol M"
       },
-      "Bastien1_26_AlCompasDelSwing_p30": {
+      {"document_key":"Bastien1_26_AlCompasDelSwing_p30",
         "artist": "Pág. 30",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10590,7 +10590,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CdxFJeslovUf3XnHPTfXHMZzmritdaHW/view",
         "subtitle": "Tonalidad de Sol M"
       },
-      "Bastien1_27_NubesQuePasan_p32": {
+      {"document_key":"Bastien1_27_NubesQuePasan_p32",
         "artist": "Pág. 32",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10602,7 +10602,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1jZ7xQ41-BP6TYf2DmGkshHor4-i1u5ln/view",
         "subtitle": "Matices dinámicos"
       },
-      "Bastien1_28_Fiesta_p33": {
+      {"document_key":"Bastien1_28_Fiesta_p33",
         "artist": "Pág. 33",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10614,7 +10614,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1_1CTFHPVpmgserBGXhxcJECn2J_yufRY/view",
         "subtitle": "Matices dinámicos"
       },
-      "Bastien1_29_EstudioDelPedal_p34": {
+      {"document_key":"Bastien1_29_EstudioDelPedal_p34",
         "artist": "Pág. 34",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10626,7 +10626,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1_8F5ClbsJsQln-t9XzP6EFVbovyDoQd2/view",
         "subtitle": "Estudio del pedal"
       },
-      "Bastien1_30_PreludioMatinal_p35": {
+      {"document_key":"Bastien1_30_PreludioMatinal_p35",
         "artist": "Pág. 35",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10638,7 +10638,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1_P5jdAOZZvYpPZ6MDgo3MsK26SJWUxEe/view",
         "subtitle": "Estudio del pedal"
       },
-      "Bastien1_31_ElViejoBuhoGris_p36": {
+      {"document_key":"Bastien1_31_ElViejoBuhoGris_p36",
         "artist": "Pág. 36",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10650,7 +10650,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1_OSZA-f1fllQ-YZcWRwa1G9qkKOs6J8m/view",
         "subtitle": "Anacrusa"
       },
-      "Bastien1_32_ElNuevoDia_p37": {
+      {"document_key":"Bastien1_32_ElNuevoDia_p37",
         "artist": "Pág. 37",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10662,7 +10662,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1acxQ2FyNnh7xaFDl4h4BfhbQKVkreYV5/view",
         "subtitle": "Anacrusa"
       },
-      "Bastien1_33_AcordesSaltarines_p38": {
+      {"document_key":"Bastien1_33_AcordesSaltarines_p38",
         "artist": "Pág. 38",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10674,7 +10674,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1alKKH_2AGyAk3wu5FVFRVF7jX00hprTS/view",
         "subtitle": "Cambios de posición"
       },
-      "Bastien1_34_LaCancionDelRock_p39": {
+      {"document_key":"Bastien1_34_LaCancionDelRock_p39",
         "artist": "Pág. 39",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10686,7 +10686,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1kwh-rDfpgjd8nVbHodP6TeYFJvXNdzNc/view",
         "subtitle": "Cambios de posición"
       },
-      "Bastien1_35_Marcha_p40": {
+      {"document_key":"Bastien1_35_Marcha_p40",
         "artist": "Pág. 40",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10698,7 +10698,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1kyeqxVwkPfm5SairXhs0oX9snXlA7lNb/view",
         "subtitle": "Silencio de corchea"
       },
-      "Bastien1_36_Largo_p43": {
+      {"document_key":"Bastien1_36_Largo_p43",
         "artist": "Pág. 43",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10710,7 +10710,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1e_oGEpVcbFKkL0-wrcCiZ11n0Kc7s47A/view",
         "subtitle": "Negra con puntillo"
       },
-      "Bastien1_37_Alicita_p44": {
+      {"document_key":"Bastien1_37_Alicita_p44",
         "artist": "Pág. 44",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10722,7 +10722,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1eeS1Gh5f7Rt4bYuSGX9mMX0_W-DfyR8-/view",
         "subtitle": "Negra con puntillo"
       },
-      "Bastien1_38_PoliciasYLadrones_p45": {
+      {"document_key":"Bastien1_38_PoliciasYLadrones_p45",
         "artist": "Pág. 45",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10734,7 +10734,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1exPg54Bgs29QaniJAnnbIJ87qd7uM3Vh/view",
         "subtitle": "Negra con puntillo"
       },
-      "Bastien1_39_Cancelalo_p46": {
+      {"document_key":"Bastien1_39_Cancelalo_p46",
         "artist": "Pág. 46",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10746,7 +10746,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1f6nJBSIthWxCQ4TJpDayR_sdgTMiqHtm/view",
         "subtitle": "El becuadro"
       },
-      "Bastien1_40_Celebracion_p47": {
+      {"document_key":"Bastien1_40_Celebracion_p47",
         "artist": "Pág. 47",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10758,7 +10758,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1bD6vuqBrUVkBjY_q8ibUUa8iU7C804jv/view",
         "subtitle": "El becuadro"
       },
-      "Bastien1_41_MarchaDeLosSantos_p48_49": {
+      {"document_key":"Bastien1_41_MarchaDeLosSantos_p48_49",
         "artist": "Pág. 48-49",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10770,7 +10770,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1CgJct3T3AM_eiP8mwRtBZ6uWRnErVQfC/view",
         "subtitle": "Canciones finales"
       },
-      "Bastien1_42_OdaALaAlegria_p50_51": {
+      {"document_key":"Bastien1_42_OdaALaAlegria_p50_51",
         "artist": "Pág. 50-51",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10782,7 +10782,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1H28CVWm0bjOWOf5CCl3e7C_ii3iH9XjB/view",
         "subtitle": "Canciones finales"
       },
-      "Bastien1_43_GrupoDeRock_p52_53": {
+      {"document_key":"Bastien1_43_GrupoDeRock_p52_53",
         "artist": "Pág. 52-53",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10794,7 +10794,7 @@
         "sheetMusic": "https://drive.google.com/file/d/1H5sw13Qib6ZNhxwXTaq7trTWzSjfxUYR/view",
         "subtitle": "Canciones finales"
       },
-      "Bastien1_44_VueloEspacial_p54": {
+      {"document_key":"Bastien1_44_VueloEspacial_p54",
         "artist": "Pág. 54",
         "categories": "Metodos",
         "collection": "Bastien Nivel 1",
@@ -10805,8 +10805,7 @@
         "preloadLink": "./follow/follow.html?d:0kqujj40ef6004b/44_Vuelo_espacial_p54.js",
         "sheetMusic": "https://drive.google.com/file/d/1HJFLgkl3cPOOdcKdpitfNy-EvcJ8iHqF/view",
         "subtitle": "Canciones finales"
-      }
-    },
+      },
 
 
 
