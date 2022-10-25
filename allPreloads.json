@@ -11018,7 +11018,64 @@
 
 
 
+    {
+      "__id__": "Para_Elisa_p52_53",
+      "arreglo": "Piano solo",
+      "artist": "pág. 53-53",
+      "categories": "Métodos",
+      "collection": "Bastien Nivel 3",
+      "date": 1639487717000,
+      "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/metodos/bastien3.png",
+      "info": "",
+      "level": "",
+      "musicStyle": "",
+      "name": "Para Elisa",
+      "practice": "",
+      "preloadID": "Para_Elisa_p52_53",
+      "preloadLink": "./follow/follow.html?d:k1wpolus2ntmz1f/Para_Elisa_p52_53.js",
+      "sheetMusic": "https://drive.google.com/file/d/1sHV01EEezfkE3f1Y2e-88c7VxBdYH7pl/view",
+      "subtitle": "Canciones finales",
+      "tonality": ""
+    },
 
+
+
+
+
+
+
+
+
+    {
+      "__id__": "Bastien4_01_Romanza_p4_5",
+      "arreglo": "Piano solo",
+      "artist": "pág. 4-5",
+      "categories": "Métodos",
+      "collection": "Bastien Nivel 4",
+      "date": 1639485314000,
+      "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/metodos/bastien4.png",
+      "info": "",
+      "level": "",
+      "musicStyle": "",
+      "name": "1. Romanza",
+      "practice": "",
+      "preloadID": "Bastien4_01_Romanza_p4_5",
+      "preloadLink": "./follow/follow.html?d:fik290e42simbdg/1_Romanza_p4_5.js",
+      "sheetMusic": "https://drive.google.com/file/d/1rzUPv-d8LTu4wwZYNh2mk1jelBna0IJz/view",
+      "sublevel": "",
+      "subtitle": "Forma ternaria",
+      "tonality": ""
+    },
+
+
+
+
+
+
+
+
+
+    
     {
       "__id__": "MetodoEuropeo1_18_Ejercicio1_3dedos_pag30",
       "artist": "Método europeo",
