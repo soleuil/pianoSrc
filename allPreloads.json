@@ -10047,7 +10047,7 @@
     },
 {"document_key": "Photograph_Facil",
     "artist": "Ed Sheeran",
-    "categories": "Nivel50",
+    "categories": ["Arreglos","Nivel50"],
     "collection": "Para emepzar",
     "date": 1587933289010,
     "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/arreglos/Photograph_Sheeran.jpeg",
