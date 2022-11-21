@@ -1,5 +1,24 @@
 [
   {
+    "preloadID": "Shes_like_the_wind_acomp_Intermedio",
+    "name": "She's like the wind (acomp.)",
+    "artist": "B.S.O. Dirty Dancing",
+    "level": "Intermedio",
+    "sublevel": "",
+    "musicStyle": "Film/TV",
+    "tonality": "SolM",
+    "subtitle": "Nivel Intermedio",
+    "categories": "Arreglos",
+    "collection": "",
+    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/arreglos/Dirty-Dancing-She-s-Like-The-Wind.jpg",
+    "sheetMusic": "https://drive.google.com/file/d/1Ao5f5TUapEb_VLAFO2wPeS-0-Sxb6nDV/view",
+    "preloadLink": "./follow/follow.html?d:zxdoggfhmkm3x18/Shes_like_the_wind_acomp_Intermedio.js",
+    "arreglo": "Arreglo con acomp.",
+    "practice": "",
+    "info": "",
+    "date": 1669043893612
+  },
+  {
     "preloadID": "Porco_Rosso_Intermedio",
     "name": "Tema de Marco y Gina",
     "artist": "Hisaishi",
