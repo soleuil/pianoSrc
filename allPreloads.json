@@ -12840,6 +12840,25 @@
       "subtitle": "Vol. 2 (pág.49)",
       "tonality": "Mi b M (3 b)"
   },
+  {
+    "preloadID": "MetodoEuropeo2_43_Ecosaise_pag51",
+    "name": "43. Ecossaise",
+    "artist": "Método europeo",
+    "level": "",
+    "sublevel": "",
+    "musicStyle": "",
+    "tonality": "MibM",
+    "subtitle": "Vol. 2 (pág.49)",
+    "categories": "Metodos",
+    "collection": "metodoEuropeo2",
+    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/metodos/Metodo_europeo_2.png",
+    "sheetMusic": "https://drive.google.com/file/d/1Ci9iJWSxns2MV2A4bLQ6jFjusfTO5RHS/view?usp=sharing",
+    "preloadLink": "./follow/follow.html?d:rk56rre7sevpic7/43_Ecosaise_pag51.js",
+    "arreglo": "Piano solo",
+    "practice": "",
+    "info": "",
+    "date": 1669042744097
+  },
 
 
 
