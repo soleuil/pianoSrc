@@ -12954,6 +12954,25 @@
     "info": "",
     "date": 1669042744097
   },
+  {
+    "arreglo": "Piano solo",
+    "artist": "Método europeo",
+    "categories": "Metodos",
+    "collection": "metodoEuropeo2",
+    "date": 1669492292390,
+    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/metodos/Metodo_europeo_2.png",
+    "info": "",
+    "level": "",
+    "musicStyle": "",
+    "name": "44. Je descendis dans mon jardin",
+    "practice": "",
+    "preloadID": "MetodoEuropeo2_44_Je_descendis_dans_mon_jardin_pag51",
+    "preloadLink": "./follow/follow.html?d:9sah1d54kfq10yp/44_Je_descendis_dans_mon_jardin_pag51.js",
+    "sheetMusic": "https://drive.google.com/file/d/1ESDzmMRqY_rbcw1ma8VaS_kXEVPm2ydy/view",
+    "sublevel": "",
+    "subtitle": "Vol. 2 (pág.49)",
+    "tonality": "MibM"
+  },
 
 
 
