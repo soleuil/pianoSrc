@@ -4263,29 +4263,6 @@
         "userEmail": ""
     },
     {
-        "__id__": "IU7fQTm6dr3Dm0WlBE9H",
-        "apellidos": "Morales Bocharova",
-        "asignaturas": [
-            "Instrumento",
-            "Lenguaje musical"
-        ],
-        "createdAt": 1662893361501,
-        "curso": "1º EEBB",
-        "especialidad": "Viola",
-        "iPasenID": "",
-        "itinerario": "",
-        "nombre": "Martina",
-        "selected": [
-            ""
-        ],
-        "studentID": "IU7fQTm6dr3Dm0WlBE9H",
-        "teachers": [
-            ""
-        ],
-        "tutor": "violaB",
-        "userEmail": ""
-    },
-    {
         "__id__": "IULJsZ8JiImLq109e2Jn",
         "apellidos": "López Cano",
         "asignaturas": [
