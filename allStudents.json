@@ -2346,29 +2346,6 @@
         "userEmail": ""
     },
     {
-        "__id__": "ASz0Vsq6nlT9Qk64Hg4Q",
-        "apellidos": "Aoulad Hamouch",
-        "asignaturas": [
-            "Instrumento",
-            "Lenguaje musical"
-        ],
-        "createdAt": 1662891290518,
-        "curso": "1º EEBB",
-        "especialidad": "Viola",
-        "iPasenID": "",
-        "itinerario": "",
-        "nombre": "Sara",
-        "selected": [
-            ""
-        ],
-        "studentID": "ASz0Vsq6nlT9Qk64Hg4Q",
-        "teachers": [
-            ""
-        ],
-        "tutor": "violaB",
-        "userEmail": ""
-    },
-    {
         "__id__": "Af3jernSftYTs5bwPiw8",
         "apellidos": "Bayo López",
         "asignaturas": [
