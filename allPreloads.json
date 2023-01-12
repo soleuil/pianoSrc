@@ -8857,6 +8857,7 @@
     "preloadID": "N26_1_WhenTheSaints",
     "preloadLink": "./follow/follow.html?d:sz3ma8fzclguwon/N26_1_When%20the%20saints.js",
     "sheetMusic": "https://drive.google.com/file/d/1HdPUIictpsDb4gl9-k2YS4AdA3grZeg2/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 26",
     "tonality": "Do M"
     },
@@ -8875,6 +8876,7 @@
     "preloadID": "N26_2_JingleBells",
     "preloadLink": "./follow/follow.html?d:5rtmdtorv2x4tdh/N26_2_Jingle%20Bells.js",
     "sheetMusic": "https://drive.google.com/file/d/1HfROgSitKnu8moGVenNJZggBwM1BoHkp/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 26",
     "tonality": "Do M"
     },
@@ -8893,6 +8895,7 @@
     "preloadID": "N26_3_LondonBridge",
     "preloadLink": "./follow/follow.html?d:i8uu1hj5e2qhejs/N26_3_London%20bridge.js",
     "sheetMusic": "https://drive.google.com/file/d/1Hkm2DUBPF7RUGT7xIG7NL1kiCYlJ9-9N/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 26",
     "tonality": "Do M"
     },
@@ -8923,6 +8926,7 @@
     "preloadID": "N27_2_Froggies",
     "preloadLink": "./follow/follow.html?d:c8sdjvvai49yt89/N27_2_Froggies.js",
     "sheetMusic": "https://drive.google.com/file/d/1HlSa8JX0A6dXiLV4nCVIp1_TA2VOlHqX/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 27",
     "tonality": "Do M"
     },
@@ -8941,6 +8945,7 @@
     "preloadID": "N27_3_Musette",
     "preloadLink": "./follow/follow.html?d:8ldbpqt74tiry1k/N27_3_Musette.js",
     "sheetMusic": "https://drive.google.com/file/d/1ICXfeZTxLhF_uQ5xAQfWPiHejkC4AA_V/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 27",
     "tonality": "Do M"
     },
@@ -8959,6 +8964,7 @@
     "preloadID": "N27_4_LightlyRow",
     "preloadLink": "./follow/follow.html?d:o4g5oa27vntehrv/N27_4_Lightly%20row.js",
     "sheetMusic": "https://drive.google.com/file/d/1ICeAQpU4PTKl9i5U11qaL_C8Jv0CTjO-/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 27",
     "tonality": "Do M"
     },
@@ -8996,6 +9002,7 @@
     "preloadID": "N28_3_Graduation",
     "preloadLink": "./follow/follow.html?d:qaxls7jptoqhgum/N28_3_Graduation.js",
     "sheetMusic": "https://drive.google.com/file/d/1YLY3MjikJLs3wR497b8bkdukR2McyVMD/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 28"
     },
 {"document_key": "N28_4_Cazafantasmas",
@@ -9020,6 +9027,7 @@
     "preloadID": "N29_1_IrishRover",
     "preloadLink": "./follow/follow.html?d:9co2p2uvrd84ebe/N29_1_Irish%20rover.js",
     "sheetMusic": "https://drive.google.com/file/d/11E3v83AGaJ5aM0GbsPhnU9F4XwGew2k8/view",
+    "sublevel":"1a",
     "subtitle": "Nivel 29"
     },
 {"document_key": "N29_2_5FingerWarmup",
@@ -9040,10 +9048,12 @@
     "collection": "Para empezar",
     "date": 1587933289000,
     "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/paraEmpezar/N29_3_What_makes_you_beautiful.jpeg",
+    "level":"Muy fácil",
     "name": "3. What makes you beautiful",
     "preloadID": "N29_3_WhatMakesYouBeautiful",
     "preloadLink": "./follow/follow.html?d:4gje88m2f6ysic1/3_What%20makes%20you%20beautiful.js",
     "sheetMusic": "https://drive.google.com/file/d/10GQx0Ytz7wCcw_GUiZTml3kbZarkc68R/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 29"
     },
 {"document_key": "N29_4_DontStopBelievin",
@@ -9056,6 +9066,7 @@
     "preloadID": "N29_4_DontStopBelievin",
     "preloadLink": "./follow/follow.html?d:98422m1pwq43k8f/4_Don%27t%20stop%20believing%20%28Glee%29.js",
     "sheetMusic": "https://drive.google.com/file/d/10OaRiumyoIrVSKjItxREHKOD0LsNRnRh/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 29"
     },
 {"document_key": "N29_5_LoveSomebody",
@@ -9068,6 +9079,7 @@
     "preloadID": "N29_5_LoveSomebody",
     "preloadLink": "./follow/follow.html?d:2tenpibgemrznno/N29_5_Love%20somebody.js",
     "sheetMusic": "https://drive.google.com/file/d/11TcP85QopDgNPTB9XNov-YmEukLImf_y/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 29"
     },
 {"document_key": "N30_1_Warmup",
@@ -9092,6 +9104,7 @@
     "preloadID": "N30_2_WindOfChange",
     "preloadLink": "./follow/follow.html?d:stbiuabonuvu1q7/N30_2_Wind.js",
     "sheetMusic": "https://drive.google.com/file/d/1A2GSAtC_zF8_byEuZXLhDCCD8Hl8E87T/view",
+    "sublevel":"2a",
     "subtitle": "Nivel 30"
     },
 {"document_key": "N30_3_WeddingMarch",
@@ -9104,6 +9117,7 @@
     "preloadID": "N30_3_WeddingMarch",
     "preloadLink": "./follow/follow.html?d:8g5252r7z4s1bzm/N30_3_Marcha%20nupcial.js",
     "sheetMusic": "https://drive.google.com/file/d/123Pp0r_zPpar8XHFvUpqNWXl7sqtB0oE/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 30"
     },
 {"document_key": "N30_4_LoveMeTender",
@@ -9116,6 +9130,7 @@
     "preloadID": "N30_4_LoveMeTender",
     "preloadLink": "./follow/follow.html?d:3tr1aurx4w0229m/N30_4_Love%20me%20tender.js",
     "sheetMusic": "https://drive.google.com/file/d/125JOt21s5t1uFqfztKuv5gZJ790zBnGo/view",
+    "sublevel":"1b",
     "subtitle": "Nivel 30"
     },
 {"document_key": "N30_5_Warmup",
@@ -10238,7 +10253,7 @@
 {"document_key": "Photograph_Facil",
     "artist": "Ed Sheeran",
     "categories": ["Arreglos","Nivel50"],
-    "collection": "Para emepzar",
+    "collection": "Para empezar",
     "date": 1587933289010,
     "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/arreglos/Photograph_Sheeran.jpeg",
     "level": "Fácil",
