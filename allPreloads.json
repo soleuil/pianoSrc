@@ -171,25 +171,6 @@
     "date": 1669043305489
   },
   {
-    "preloadID": "Allegretto_in_C_Diabelli",
-    "name": "Allegretto en Do",
-    "artist": "Anton Diabelli",
-    "level": "2EEBB",
-    "sublevel": "",
-    "musicStyle": "Clasico",
-    "tonality": "DoM",
-    "subtitle": "ABRSM Grade 1",
-    "categories": "Repertorio",
-    "collection": "",
-    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/repertorio/Diabelli.png",
-    "sheetMusic": "https://drive.google.com/file/d/1CNrFTuBORFR6y_I7Eyre_Z9-zNeqHIQ4/view",
-    "preloadLink": "./follow/follow.html?d:8of4hq8yy2nkaq9/A1_Allegretto_in_C_Major_Diabelli.js",
-    "arreglo": "Piano solo",
-    "practice": "",
-    "info": "",
-    "date": 1669037422005
-  },
-  {
     "arreglo": "Arreglo con acomp.",
     "categories": "Arreglos",
     "musicStyle": "Pop/Rock",
@@ -6714,6 +6695,25 @@
 
 
 
+  {
+    "preloadID": "Allegretto_in_C_Diabelli",
+    "name": "Allegretto en Do",
+    "artist": "Anton Diabelli",
+    "level": "2EEBB",
+    "sublevel": "",
+    "musicStyle": "Clasico",
+    "tonality": "DoM",
+    "subtitle": "ABRSM Grade 1",
+    "categories": "Repertorio",
+    "collection": "",
+    "image": "https://conservatorio.s3.eu-west-2.amazonaws.com/pianoLessons/images/repertorio/Diabelli.png",
+    "sheetMusic": "https://drive.google.com/file/d/1CNrFTuBORFR6y_I7Eyre_Z9-zNeqHIQ4/view",
+    "preloadLink": "./follow/follow.html?d:8of4hq8yy2nkaq9/A1_Allegretto_in_C_Major_Diabelli.js",
+    "arreglo": "Piano solo",
+    "practice": "",
+    "info": "",
+    "date": 1669037422005
+  },
   {
     "arreglo": "Piano solo",
     "categories": "Repertorio",
